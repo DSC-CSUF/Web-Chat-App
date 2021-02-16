@@ -8,10 +8,10 @@ There are 2 branches:
 
 ## Links
 For this project, we will be using React and Firebase, so if you do not have React installed; follow this article:
-[How to install React.js with create-react-app](https://www.freecodecamp.org/news/install-react-with-create-react-app/) by Cem Eygi.
+- [How to install React.js with create-react-app](https://www.freecodecamp.org/news/install-react-with-create-react-app/) by Cem Eygi.
 
 Alternatively, if you like to know how to host a website on Firebase, check out this article from our UI/UX Engineer Tyler Goodman
-[How to host your react app on firebase](https://dev.to/technicallyty/how-to-host-your-react-app-on-firebase-2p2i)
+- [How to host your react app on firebase](https://dev.to/technicallyty/how-to-host-your-react-app-on-firebase-2p2i)
 
 [Link to our YouTube Video](https://www.youtube.com/watch?v=NlZcqU74L3E)
 
