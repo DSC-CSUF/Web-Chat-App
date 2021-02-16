@@ -13,7 +13,7 @@ For this project, we will be using React and Firebase, so if you do not have Rea
 Alternatively, if you like to know how to host a website on Firebase, check out this article from our UI/UX Engineer Tyler Goodman
 [How to host your react app on firebase](https://dev.to/technicallyty/how-to-host-your-react-app-on-firebase-2p2i)
 
-[Link to our YouTube Video](https://www.youtube.com/watch?v=NlZcqU74L3E)
+[Workshop Video](https://www.youtube.com/watch?v=NlZcqU74L3E)
 
 Before beginning with the workshop, make sure you have your account set up on [Firebase](https://firebase.google.com/)
 
