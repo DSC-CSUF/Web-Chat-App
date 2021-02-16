@@ -15,7 +15,7 @@ Alternatively, if you like to know how to host a website on Firebase, check out 
 
 [Link to our YouTube Video](https://www.youtube.com/watch?v=NlZcqU74L3E)
 
-Before beginning with the workshop, make sure you have your account set up on [Fireabase](https://firebase.google.com/)
+Before beginning with the workshop, make sure you have your account set up on [Firebase](https://firebase.google.com/)
 
 *Also, have a text editor downloaded on your computer before cloning this repository. You can use whichever text editor of your choosing (Atom, Sublime, Notepad++). For this
 demonstration, I will be using Visual Studio Code.*
@@ -86,3 +86,14 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## For students using Windows, after you download this repository on your computer, you should be able to view your project on chrome by clicking index (which is your index.html):
+![Screenshot 2020-07-27 00 07 02](https://user-images.githubusercontent.com/55200206/88515938-56226380-cfa1-11ea-9aa5-77f017f755bc.png)
+**This makes it easier as you can refresh your browser's page anytime you save or change anything while you are coding.**
+
+## Thank you for checking out our workshop. If you would like, connect with us and join the Developer Student Club through:
+* [Discord](https://discord.gg/kRr36Pa)
+
+**Visit our [website](http://www.dsc-csuf.com/)**.
+
+This workshop is created by Developer Student Club Technical Lead - Sagar Joshi.
