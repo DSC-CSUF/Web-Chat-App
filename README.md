@@ -1,9 +1,27 @@
-# Getting Started with Create React App
+# Web Chat App - Firebase Workshop
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Hello and welcome to Developer Student Club (DSC) First Virtual Workshop of 2021. Today, we will be covering Firebase - a platform developed by Google for creating mobile and web applications.
 
-## Available Scripts
+There are 2 branches:
+- master contains the finalized code
+- starter-code shows which shows what I will working on throughout the presentation. 
 
+## Links
+For this project, we will be using React and Firebase, so if you do not have React installed; follow this article:
+[How to install React.js with create-react-app](https://www.freecodecamp.org/news/install-react-with-create-react-app/) by Cem Eygi.
+
+Alternatively, if you like to know how to host a website on Firebase, check out this article from our UI/UX Engineer Tyler Goodman
+[How to host your react app on firebase](https://dev.to/technicallyty/how-to-host-your-react-app-on-firebase-2p2i)
+
+[Link to our YouTube Video](https://www.youtube.com/watch?v=NlZcqU74L3E)
+
+Before beginning with the workshop, make sure you have your account set up on [Firebase](https://firebase.google.com/)
+
+*Also, have a text editor downloaded on your computer before cloning this repository. You can use whichever text editor of your choosing (Atom, Sublime, Notepad++). For this
+demonstration, I will be using Visual Studio Code.*
+
+
+## React - Instructions
 In the project directory, you can run:
 
 ### `yarn start`
@@ -68,3 +86,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Thank you for checking out our workshop. If you would like, connect with us and join the Developer Student Club through:
+* [Discord](https://discord.gg/kRr36Pa)
+
+**Visit our [website](http://www.dsc-csuf.com/)**.
+
+This workshop is created by Developer Student Club Technical Lead - Sagar Joshi.
